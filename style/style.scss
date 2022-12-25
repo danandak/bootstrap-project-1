@@ -1,0 +1,40 @@
+.navbar-brand {
+	img {
+		height: 80px;
+	}
+}
+
+#navbarNav {
+	li {
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	h1 {
+		font-family: 'Be Vietnam Pro', sans-serif;
+		color: white;
+	}
+}
+
+.heading_boxes {
+	h2 {
+		margin: 20px;
+		border: 2px solid black;
+		border-radius: 5px;
+		height: 300px;
+	}
+	.card {
+		margin-bottom: 20px;
+	}
+}
+
+.app_desc {
+	margin-top: 15px;
+	article {
+		margin: 15px;
+	}
+}
+
+.footer {
+	background-color: black;
+	color: white;
+}
